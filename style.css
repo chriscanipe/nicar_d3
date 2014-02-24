@@ -17,6 +17,7 @@ p {
 .chart {
 	width: 600px;
 	height: 400px;
+	position: relative;
 }
 
 .bar {
@@ -44,10 +45,9 @@ p {
 	font: 12px sans-serif;
 }
 
-.toggle {
-	padding: 8px;
+.tooltip {
+	position: absolute;
+	padding: 10px;
 	border: 1px solid #999;
-	float: left;
-	cursor: pointer;
-	
+	background-color: white;
 }
