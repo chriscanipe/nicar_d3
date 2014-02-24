@@ -1,7 +1,26 @@
 
 
+body {
+	color: #333;
+	font-family: aria, sans-serif;
+}
+
+h1 {
+	font-family: Georgia, serif;
+	margin: 4px 0;
+}
+
+p {
+	margin: 4px 0;
+}
+
+.chart {
+	width: 600px;
+	height: 400px;
+}
+
 .bar {
-  fill: steelblue;
+  fill: green;
 }
 
 
@@ -23,4 +42,12 @@
 .label {
 	fill: #FFF;
 	font: 12px sans-serif;
+}
+
+.toggle {
+	padding: 8px;
+	border: 1px solid #999;
+	float: left;
+	cursor: pointer;
+	
 }

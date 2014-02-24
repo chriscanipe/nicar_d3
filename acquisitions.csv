@@ -1,1 +1,7 @@
-company,price,dateBeam Inc,13954,01/13/14Publicis Groupe SA,17646,07/28/13NYSE Euronext,11100,12/20/12Motorola Mobility Holdings Inc,12938,08/15/11Constellation Energy Group Inc,7507,04/28/11WhatsApp,19000,02/19/14
+announcement,target,target_short,price,employees,as_of,per_employee
+01/13/14,Beam Inc,Beam,13954,3300,"as of Dec. 31, 2013",4200000
+07/28/13,Publicis Groupe SA,Publicis Groupe,17646,59985,"as of June 30, 2013",294174
+12/20/12,NYSE Euronext,NYSE Euronext,11100,3061,"as of Sept. 30, 2012",3600000
+08/15/11,Motorola Mobility Holdings Inc,Motorola,"12938",19000,"as of Dec. 31, 2010",680947
+04/28/11,Constellation Energy Group Inc,Constellation Energy,7507,7600,"as of Dec. 31, 2010",987763
+02/19/14,WhatsApp,WhatsApp,19000,55,,345000000
